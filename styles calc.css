@@ -1,0 +1,46 @@
+h1 {
+
+    color: black;
+    font-weight:  bolder;
+    text-align:  center;
+
+}
+
+.calculator {
+
+     padding: 10px;
+     height: 600px;
+     width: 600px;
+     margin: auto;
+     background-color: #191b28;
+
+}
+
+.display-box {
+
+     font-family: 'Orbitron', sans-serif;
+     background-color: #ffffff;
+     color: black;
+     text-decoration-style:  solid;
+     letter-spacing: 2px;
+     font-size: 20px;
+     width: 109%;
+     height: 60%;
+
+}
+
+.button {
+
+     font-family: 'Orbitron', sans-serif;
+     background-color: #ffffff;
+     color: black;
+     width: 90%;
+     height: 60%;
+     font-size: 20px;
+
+}
+
+.button:active {
+
+     background-color: #9370db;
+}
